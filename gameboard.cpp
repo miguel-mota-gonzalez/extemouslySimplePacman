@@ -20,7 +20,7 @@ const int SCORE_OFFSET        = 25;
 const int GAME_OVER_TEXT_Y_POS= 160;
 const int GAME_OVER_TEXT_X_POS= 60;
 const int START_NEW_GAME_KEY  = 32;
-const int GAME_OVER_SIZE      = 17;
+const int GAME_OVER_SIZE      = 14;
 const int SCORE_SIZE          = 20;
 
 const QString GAME_OVER_TEXT = QStringLiteral("GAME OVER!");
